@@ -9,17 +9,17 @@ API_ID = 21968859
 
 API_HASH = "21a59d21687f01d448530ee88a26b1eb"
 
-BOT_TOKEN = "8309548271:AAHvN4f9aeDvBHRHCbDQ9WI3AHmiZuCMhdQ"
+BOT_TOKEN = "8055158116:AAFfw3IMurfCYoAIlNE2xiBG_mjX20Mhdvo"
 
-BOT_ID = 8309548271
+BOT_ID = 8055158116
 
-BOT_USERNAME = "@CelaviraBot"
+BOT_USERNAME = "@MiaKhailfabot"
 
 OWNER_USERNAME = "@eren_aethonix"
 
-BOT_NAME = "𝐂𝐞𝐥𝐚𝐯𝐢𝐫𝐚 ꭙ 𝐌ᴜsɪᴄ 🌹"
+BOT_NAME = "𝐌ɪᴀ ꭙ 𝐌ᴜsɪᴄ 💗"
 
-ASSUSERNAME = "@Celaviraassistant"
+ASSUSERNAME = "@miakhassistant"
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN1234@cluster0.7q7ri.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
@@ -66,7 +66,7 @@ SONG_DOWNLOAD_DURATION_LIMIT = 9999999
 TG_AUDIO_FILESIZE_LIMIT = 2147483648
 TG_VIDEO_FILESIZE_LIMIT = 2147483648
 
-STRING1 = getenv("STRING1", "BQE71UwAATI360lN5tLXm18OD4UCPh8rHh6FwARnhWfQV0N4HWH0prMrd5cF0VQQfoOyQMRI3U6cg_kL0Q2UiA6AVVSnvLbjqss7eWCO4cu4dMFdMq_pGVoqlx_8_wrejw5N6zsl6tD7925snZcwugdXt_TlRZ9OVERGWbcTcX8OtkRc9uqkMCWWYgt3UWIc5iI7KFi6iQs9mD5t07QIELAHdQ-61rot8GPAM37ZGNutVJbEkeo-tayg6egl4TgMcVj88i0778bw69WDBXptXIH6v2coHUBw6AZ8ElH8Pn-17BgFMRpZdbo-zvX1-JL-UuARb1QIMWsn_kXj4vpmhNG-iCUNnwAAAAG072FsAA")
+STRING1 = getenv("STRING1", "BQGPbhsAJtfoTP7mvRjy2xack9SwO1VvEeHK9ySjMcsGhjs4qMK-FRZyCD0HUAYQQ19w4r6ID8P3EJtk17xNafJXr_QCOsw2gG6acMrBracTesQQBk1IowNXjoCIxN7ztvGW2vpecWk-WsvTZLbGNfbJG6ldKATyDcFwpX_NyRkgNqj9C3SHdfQQD3sBScbjBDrtI8s43rJhmF_dqEw6Z3XC_lbxkLDc0paYb7pR00QisgeM2v-6qkIpglmMQZyV6seCjrh2_JLMqtDjYqlmcQ8ZsrUMw0Zrvu-SeeykGOPeoYmeJ4zKqgCc4DaanpeVY2OTWokrRi2rhNpsf-Z6PPDMNCCU0AAAAAGBx94sAA")
 STRING2 = getenv("STRING2", None)
 STRING3 = getenv("STRING3", None)
 STRING4 = getenv("STRING4", None)
